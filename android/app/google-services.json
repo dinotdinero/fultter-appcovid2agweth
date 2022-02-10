@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "678899457128",
+    "project_id": "conid-97729",
+    "storage_bucket": "conid-97729.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678899457128:android:a7e4e34fd193ce61b0afdd",
+        "android_client_info": {
+          "package_name": "com.shop.flutter_appcovid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678899457128-fk5num722ae7kcrj7fa3b1bgssu2d3hg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdxFwioRSLru4-mzTBbYJEmuz09uufWag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678899457128-fk5num722ae7kcrj7fa3b1bgssu2d3hg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
